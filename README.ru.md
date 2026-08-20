@@ -11,9 +11,11 @@ Backend и fullstack-разработка. На бэкенде — Python / Fast
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Belchenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-belchenko-4b3101425/)
 [![Habr Career](https://img.shields.io/badge/Habr%20Career-belch-65A3BE?style=flat-square)](https://career.habr.com/belch)
 
-<!-- ЗАПОЛНИТЬ: одна строка — опыт, текущий статус, формат работы.
-     Например: «6 лет коммерческой разработки. Открыт к backend, fullstack и AI-engineering ролям. Удалённо, UTC+3.»
-     Удалите этот комментарий после заполнения. -->
+17 лет в коммерческой разработке — от Oracle PL/SQL и Android до Kotlin / Spring
+и, в последнее время, систем на LLM-агентах. Домены: электроэнергетика, судебная
+экспертиза, финтех. Senior, Санкт-Петербург, открыт к удалённой работе и переезду.
+
+Полное резюме — [Хабр Карьера](https://career.habr.com/belch).
 
 ---
 

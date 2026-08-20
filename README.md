@@ -11,9 +11,11 @@ deterministic verification of the output.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Belchenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-belchenko-4b3101425/)
 [![Habr Career](https://img.shields.io/badge/Habr%20Career-belch-65A3BE?style=flat-square)](https://career.habr.com/belch)
 
-<!-- ЗАПОЛНИТЬ: одна строка — опыт, текущий статус, формат работы.
-     Например: "6 years of commercial development. Open to backend, fullstack and AI-engineering roles. Remote, UTC+3."
-     Удалите этот комментарий после заполнения. -->
+17 years in commercial development — from Oracle PL/SQL and Android to Kotlin / Spring,
+and most recently LLM-agent systems. Domains: energy, forensic expertise, fintech.
+Senior, based in St. Petersburg, open to remote work and relocation.
+
+Full CV — [Habr Career](https://career.habr.com/belch).
 
 ---
 

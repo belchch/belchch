@@ -11,9 +11,8 @@ deterministic verification of the output.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Belchenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-belchenko-4b3101425/)
 [![Habr Career](https://img.shields.io/badge/Habr%20Career-belch-65A3BE?style=flat-square)](https://career.habr.com/belch)
 
-17 years in commercial development — from Oracle PL/SQL and Android to Kotlin / Spring,
-and most recently LLM-agent systems. Domains: energy, forensic expertise, fintech.
-Senior, based in St. Petersburg, open to remote work and relocation.
+10+ years in production development. Domains: energy, forensic expertise, fintech.
+Based in St. Petersburg, open to remote work.
 
 Full CV — [Habr Career](https://career.habr.com/belch).
 
@@ -31,11 +30,11 @@ Python, or as a pipeline, and can be attached to another session as a tool.
 - Nested skill calls use a frozen config hash and budgets on depth, LLM calls and wall time.
 - Data stays in a plain folder: Markdown results, Obsidian-compatible wiki-links, SQLite as a rebuildable index.
 - DOCX, XLSX, PDF, CSV and Markdown on input; Markdown and templated DOCX on output.
-- 24 architecture decisions are written down as [ADRs](https://github.com/belchch/catalog/tree/main/docs/adr).
+- Architecture decisions are written down as [ADRs](https://github.com/belchch/catalog/tree/main/docs/adr).
 
 Python 3.11, FastAPI, Pydantic v2, asyncio, SQLite · React 19, TypeScript, Vite, Tailwind
 
-[Repository](https://github.com/belchch/catalog) · [Code showcase](https://github.com/belchch/catalog-showcase) — four self-contained packages with offline tests: agent loop, OpenAI-compatible provider, verification registry, wikilink rewriting.
+[Repository](https://github.com/belchch/catalog) · [Video demo](https://youtu.be/pSu7ZdjWJ6I)
 
 ---
 
@@ -52,7 +51,7 @@ markup against GOST templates, bill of quantities, estimates, generated DOCX rep
 
 Kotlin 2.1, Spring Boot 3.4, Spring Security, Spring Data JPA, PostgreSQL, MinIO / S3, Apache POI · Vue 3 (Composition API), TypeScript, Quasar 2, Pinia
 
-[Code showcase](https://github.com/belchch/epse-showcase) — selected fragments, published with the client's consent. Live demo: [77.110.115.239](http://77.110.115.239) (`demo` / `demo`), [Swagger](http://77.110.115.239:8080/swagger-ui.html). Full source available on request.
+[Code showcase](https://github.com/belchch/epse-showcase) — selected fragments, published with the client's consent. Full source available for review during an interview.
 
 ---
 

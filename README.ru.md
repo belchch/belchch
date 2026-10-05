@@ -11,9 +11,8 @@ Backend и fullstack-разработка. На бэкенде — Python / Fast
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Belchenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-belchenko-4b3101425/)
 [![Habr Career](https://img.shields.io/badge/Habr%20Career-belch-65A3BE?style=flat-square)](https://career.habr.com/belch)
 
-17 лет в коммерческой разработке — от Oracle PL/SQL и Android до Kotlin / Spring
-и, в последнее время, систем на LLM-агентах. Домены: электроэнергетика, судебная
-экспертиза, финтех. Senior, Санкт-Петербург, открыт к удалённой работе и переезду.
+10+ лет production-разработки. Домены: электроэнергетика, судебная экспертиза,
+финтех. Санкт-Петербург, открыт к удалённой работе.
 
 Полное резюме — [Хабр Карьера](https://career.habr.com/belch).
 
@@ -32,11 +31,11 @@ Backend и fullstack-разработка. На бэкенде — Python / Fast
 - Вложенные вызовы навыков работают на замороженном конфиге с лимитами на глубину, число вызовов модели и общее время.
 - Данные лежат в обычной папке: результаты в Markdown, wiki-ссылки для Obsidian, SQLite как перестраиваемый индекс.
 - На вход DOCX, XLSX, PDF, CSV и Markdown; на выход Markdown и DOCX по шаблону.
-- 24 архитектурных решения зафиксированы в виде [ADR](https://github.com/belchch/catalog/tree/main/docs/adr).
+- Архитектурные решения зафиксированы в виде [ADR](https://github.com/belchch/catalog/tree/main/docs/adr).
 
 Python 3.11, FastAPI, Pydantic v2, asyncio, SQLite · React 19, TypeScript, Vite, Tailwind
 
-[Репозиторий](https://github.com/belchch/catalog) · [Витрина кода](https://github.com/belchch/catalog-showcase) — четыре самодостаточных пакета с офлайн-тестами: агентный цикл, OpenAI-совместимый провайдер, реестр проверок, переписывание wiki-ссылок.
+[Репозиторий](https://github.com/belchch/catalog) · [Видеодемо](https://youtu.be/pSu7ZdjWJ6I)
 
 ---
 
@@ -53,7 +52,7 @@ Python 3.11, FastAPI, Pydantic v2, asyncio, SQLite · React 19, TypeScript, Vite
 
 Kotlin 2.1, Spring Boot 3.4, Spring Security, Spring Data JPA, PostgreSQL, MinIO / S3, Apache POI · Vue 3 (Composition API), TypeScript, Quasar 2, Pinia
 
-[Витрина кода](https://github.com/belchch/epse-showcase) — отобранные фрагменты, опубликованы с согласия заказчика. Живое демо: [77.110.115.239](http://77.110.115.239) (`demo` / `demo`), [Swagger](http://77.110.115.239:8080/swagger-ui.html). Полный код — по запросу.
+[Витрина кода](https://github.com/belchch/epse-showcase) — отобранные фрагменты, опубликованы с согласия заказчика. Полный код доступен для просмотра на собеседовании.
 
 ---
 
